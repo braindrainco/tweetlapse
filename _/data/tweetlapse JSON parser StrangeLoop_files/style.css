@@ -1,0 +1,46 @@
+body {
+  background: #262626 url('../img/SaintLouis_024ef9-2.png') top left;
+  font-size: 10px;
+}
+.tweetPoint {
+  display: block;
+}
+.tweetBox {
+  background: rgba(119, 219, 225, 0.85);
+  color: white;
+  padding: 10px;
+  font-size: 1.2em;
+  border-radius: 10px;
+  z-index: 2;
+}
+.tweetProfPic,
+.tweetUserInfo,
+.tweetName,
+.tweetUserName {
+  float: left;
+}
+hr {
+  clear: both;
+}
+.tweetProfPic {
+  margin-right: 10px;
+  width: 32px;
+  height: 32px;
+  margin-bottom: 5px;
+}
+.tweetName {
+  font-size: 1.2em;
+}
+.tweetUserName {
+  font-size: 1em;
+  clear: both;
+}
+.tweetText {
+  clear: both;
+  font-size: 1.2em;
+  line-height: 1.4em;
+  margin-bottom: 5px;
+}
+.tweetTime {
+  font-size: .8em;
+}

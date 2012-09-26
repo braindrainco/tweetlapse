@@ -1,11 +1,11 @@
 var CACHED_TWEETS_URL = 'http://localhost:8888/cityPulse/tweetlapse/tweets.json';
 var NEW_CACHED_TWEETS_URL = 'http://localhost:8888/cityPulse/tweetlapse/newestTweets.json';
 var STREAMING_TWEETS_URL = 'https://stream.twitter.com/1.1/statuses/filter.json?track=STLDW';
-var LIVE_TWEETS_STLDW = 'http://search.twitter.com/search.json?q=STLDW&rpp=1000&include_entities=true&result_type=mixed';
+var LIVE_TWEETS_STLDW = 'http://search.twitter.com/search.json?q=STLDW&rpp=1000&include_entities=true&result_type=recent';
 var LIVE_TWEETS_NEAR_CAM = 'http://search.twitter.com/search.json?geocode=38.640959,-90.234879,3mi&include_entities=true&result_type=recent';
 var TRACK_TWEETS = 'http://search.twitter.com/search.json?q=stldw&rpp=1000&include_entities=true&result_type=recent';
 var LIVE_TWEETS_STRANGE_LOOP = 'http://search.twitter.com/search.json?q=strangeloop&rpp=1000&include_entities=true&result_type=recent';
-
+var LIVE_TWEETS_CITY_PULSE = 'http://search.twitter.com/search.json?q=CPSTLDEMO&rpp=1000&include_entities=true&result_type=recent';
 //'https://stream.twitter.com/1.1/statuses/filter.json?locations=38.640959,-90.234879';
 
 var MAP_WIDTH = 1200;
@@ -18,34 +18,39 @@ var tweetNum;
 
 $(document).ready(function(){
 
+/***********************************/
+
+
+
+/***********************************/
+
 	var data;
 	var tweetNum = 0;
 
-	convertPoint(38.640691, -90.234922); //Plot the CAM for accuracy purposes.
+	convertPoint(38.640691, -90.234922, 'cam'); //Plot the CAM for accuracy purposes.
 	tweetNum++;
 
-	//Attempt to load json
-	// $.ajax({
-	// 	url: LIVE_TWEETS_NEAR_CAM,
-	// 	data: data,
-	// 	type:'POST',
-	// 	crossDomain: true,
-	// 	dataType: "jsonp",
-	// 	success: function(data) {
-	// 		handleTweets(data);
-	// 	}
-	// });
+	$.ajax({
+		url: LIVE_TWEETS_NEAR_CAM,
+		data: data,
+		type:'POST',
+		crossDomain: true,
+		dataType: "jsonp",
+		success: function(data) {
+			handleTweets(data, '');
+		}
+	});
 
-	// $.ajax({
-	// 	url: LIVE_TWEETS_STRANGE_LOOP,
-	// 	data: data,
-	// 	type:'POST',
-	// 	crossDomain: true,
-	// 	dataType: "jsonp",
-	// 	success: function(data) {
-	// 		handleTweets(data);
-	// 	}
-	// });
+	$.ajax({
+		url: LIVE_TWEETS_STRANGE_LOOP,
+		data: data,
+		type:'POST',
+		crossDomain: true,
+		dataType: "jsonp",
+		success: function(data) {
+			handleTweets(data, 'strangeloop');
+		}
+	});
 
 	$.ajax({
 		url: LIVE_TWEETS_STLDW,
@@ -54,27 +59,43 @@ $(document).ready(function(){
 		crossDomain: true,
 		dataType: "jsonp",
 		success: function(data) {
-			handleTweets(data);
+			handleTweets(data, 'stldw');
+			handleTimeline(data);
 		}
 	});
 
-	// $.ajax({
-	// 	url: STREAMING_TWEETS_URL,
-	// 	data: 'track=STLDW',
-	// 	type:'POST',
-	// 	crossDomain: true,
-	// 	dataType: "jsonp",
-	// 	success: function(data) {
-	// 		handleTweets(data);
-	// 	}
+
+	// $.getJSON('_/php/streamTweets.php', function(data) {
+	// 	console.log(data);
 	// });
+
+ 	// $.ajax({
+ 	// 	type:"GET",
+ 	// 	url: "_/php/streamTweets.php",
+ 	// 	// data: data,
+ 	// 	dataType: "json",
+ 	// 	error: function(jqXHR, textStatus, errorThrown) {
+ 	// 		console.log(errorThrown);
+ 	// 	},
+ 	// 	success: function(data, textStatus, xhr) {
+ 	// 		if (!data) {
+ 	// 			console.log('Keep alive.');
+ 	// 		} else {
+	 // 			console.log(data);
+ 	// 		}
+ 	// 	}
+ 	// });
+
+ 	function herp(data) {
+ 		console.log(data);
+ 	}
 
 	/*
 	 * While
 	 * @results is the JSON object has next_page, cycle through next page
 	 */
-	function handleTweets(results) {
-		handleTweetsHelper(results, 100, 0);
+	function handleTweets(results, type) {
+		handleTweetsHelper(results, 100, 0, type);
 	}
 
 
@@ -82,8 +103,36 @@ $(document).ready(function(){
 	 * Get next_page from returned object to get page
 	 * Get refresh_url in case data isn't workedout
 	 */
-	function handleTweetsHelper(results, pages, i) {
-		printTweets(results);
+	function handleTweetsHelper(results, pages, i, type) {
+		printTweets(results, type);
+
+		if (i <= pages && (results.next_page)) {
+			var next = results.next_page;
+			var nextURL = 'http://search.twitter.com/search.json' + next;
+			
+			i++;
+
+			$.ajax({
+				url: nextURL,
+				data: data,
+				type:'GET',
+				crossDomain: true,
+				dataType: "jsonp",
+				success: function(data) {
+					handleTweetsHelper(data, pages, i, type);
+				}
+			});
+		} else {
+			return;
+		}
+	}
+
+	function handleTimeline(results) {
+		handleTimelineHelper(results, 100, 0);
+	}
+
+	function handleTimelineHelper(results, pages, i) {
+		printTimeline(results);
 
 		if (i <= pages && (results.next_page)) {
 			var next = results.next_page;
@@ -103,6 +152,23 @@ $(document).ready(function(){
 			});
 		} else {
 			return;
+		}
+	}
+
+	function printTimeline(results) {
+		var tweets = results.results;
+		var tweetCount = (tweets) ? tweets.length : 0;
+		for (var i = 0; i < tweetCount; i++) {
+			var tweet = tweets[i];
+			var timelineTweet = '<div class="timelineTweet" id="timelineTweet_' + tweetNum + '">';
+ 			timelineTweet += '<img class="tweetProfPic" src="' + tweet.profile_image_url_https + '" alt="profile_picture"/>';
+ 			timelineTweet += '<div class="tweetUserInfo"><span class="tweetName">' + tweet.from_user_name + '</span>';
+ 			timelineTweet += '<span class="tweetUserName">@' + tweet.from_user + '</span></div><hr/>';
+ 			timelineTweet += '<div class="tweetText">' + tweet.text + '</div>';
+ 			timelineTweet += '<div class="tweetTime">' + tweet.created_at + '</div>';
+ 			timelineTweet += '</div>';
+			$(timelineTweet).appendTo('#timeline');
+			tweetNum++;
 		}
 	}
 
@@ -129,7 +195,7 @@ $(document).ready(function(){
 	 *	9.a. Retweet link to user's profile
 	 *
 	 */
-	function printTweets(results) {
+	function printTweets(results, type) {
 		var tweets = results.results;
 		var tweetCount =  (tweets) ? tweets.length : 0;
 		for (var i = 0; i < tweetCount; i++) {
@@ -139,13 +205,13 @@ $(document).ready(function(){
 				lat = tweet.geo.coordinates[0];
 				lng = tweet.geo.coordinates[1];
 				if (Math.abs(lat) > 0 && Math.abs(lng) > 0) {
-					plotTweet(tweet, lat, lng);
+					plotTweet(tweet, lat, lng, type);
 				}
 			}
 
 			if (tweet) {
 				//Store tweets with and without geo locations for timeline
-				console.log(tweet);
+				// console.log(tweet);
 				storeTweets(tweet);
 			}
 		}
@@ -162,7 +228,8 @@ $(document).ready(function(){
 	 		data: tweet,
 	 		dataType: "json",
 	 		error: function(jqXHR, textStatus, errorThrown) {
-	 			console.log(errorThrown)
+	 			// console.log(errorThrown)
+
 	 		},
 	 		success: function(data) {
 	 		}
@@ -176,17 +243,27 @@ $(document).ready(function(){
 	 * @lat - latitude
 	 * @long - longitude
 	 */
-	 function plotTweet(tweet, lat, lng) {
-	 	var coordinates = convertPoint(lat,lng); //store coordinates for drawing div later.
+	 function plotTweet(tweet, lat, lng, type) {
+	 	var coordinates = convertPoint(lat,lng, type); //store coordinates for drawing div later.
 	 	//div id to tie point to tweet id
  		//console.log(tweetNum + ': ' + coordinates[0] + ', ' + coordinates[1] + '\n\t' + tweet.text + '\n\t' + tweet.created_at);
  		//get div id on hover, then display tweet on hover
+		// var color = 'background-color:rgba(119,219,225, .85);';
 
- 		var tweetBox = '<div class="tweetBox" id="tweetBox_' + tweetNum + '" style="position:absolute; width:300px; top:'+ coordinates[1] + 25 +'px; left:'+ coordinates[0] + 25 +'px; display:none;" >';
+		// if (type == 'strangeloop') {
+		// 	color = 'background-color:rgba(19,219,225, 1);';
+		// } else if (type == 'stldw') {
+		// 	color = 'background-color:rgba(225,219,225, .85);';
+		// } else if (type == 'cam') {
+
+		// }
+
+ 		var tweetBox = '<div class="tweetBox '+ type +'" id="tweetBox_' + tweetNum + '" style="position:absolute; width:300px; top:'+ coordinates[1] + 25 +'px; left:'+ coordinates[0] + 25 +'px; display:none;" >';
  		tweetBox += '<img class="tweetProfPic" src="' + tweet.profile_image_url_https + '" alt="profile_picture"/>';
  		tweetBox += '<div class="tweetUserInfo"><span class="tweetName">' + tweet.from_user_name + '</span>';
  		tweetBox += '<span class="tweetUserName">@' + tweet.from_user + '</span></div><hr/>';
  		tweetBox += '<div class="tweetText">' + tweet.text + '</div>';
+ 		tweetBox += '<hr/>';
  		tweetBox += '<div class="tweetTime">' + tweet.created_at + '</div>';
  		tweetBox += '</div>';
  		$(tweetBox).appendTo('body');
@@ -200,7 +277,7 @@ $(document).ready(function(){
 	 * @lat - latitude
 	 * @long - longitude
 	 */
-	 function convertPoint(lat, lng) {
+	 function convertPoint(lat, lng, type) {
 	 	var mapLngDelta = LNG_RIGHT - LNG_LEFT;
 	 	var mapBottomDegree = LAT_BOTTOM * Math.PI / 180;
 
@@ -216,7 +293,7 @@ $(document).ready(function(){
 	 	if (x > MAP_WIDTH || x < 0 || y > MAP_WIDTH || y < 0) {
 			return [0,0];
 	 	} else {
-	 		drawPoint(x,y);
+	 		drawPoint(x,y, type);
 	 		return [x, y];
 		}
 
@@ -226,12 +303,22 @@ $(document).ready(function(){
 	 /*
 	  * Draw point
 	  */
-	 function drawPoint(x, y){
+	 function drawPoint(x, y, type){
 	  	var dot_size = 10;
 	  	var half_dot = Math.floor(dot_size/2);
 	  	y = y - half_dot;
 	  	x = x - half_dot;
-	  	var dot = '<div class="tweetPoint" id="tweetPoint_' + tweetNum + '" style="position:absolute; width:' + dot_size + 'px; height:' + dot_size + 'px; top:' + y + 'px; left:' + x + 'px; background:rgb(19, 219, 225); color:white; border-radius:5px;"></div>';
+
+		// var color = 'background-color:rgba(119,219,225, .85);';
+
+		// if (type == 'strangeloop') {
+		// 	color = 'background-color:rgba(19,219,225, 1);';
+		// } else if (type == 'stldw') {
+		// 	color = 'background-color:rgba(225,219,225, .85);';
+		// }
+
+
+	  	var dot = '<div class="tweetPoint '+ type +'" id="tweetPoint_' + tweetNum + '" style="position:absolute; width:' + dot_size + 'px; height:' + dot_size + 'px; top:' + y + 'px; left:' + x + 'px; color:white; border-radius:5px;"></div>';
 	 	
 	 	$(dot).appendTo('body');
 
@@ -277,12 +364,12 @@ $(document).ready(function(){
 	  	var visibleId = $('.visible').attr('id');
 	  	var pointLast = (visibleId) ? visibleId.split('_')[1] : '';
 
-	  	console.log(pointNum + 'vs. ' + pointLast);
+	  	// console.log(pointNum + 'vs. ' + pointLast);
 
 	  	if (pointNum !== pointLast) {
-		  	$('.visible').delay(250).stop().fadeOut(250, function() {
-		  		$(this).removeClass('visible');
-		  		$('.selected').removeClass('selected');
+		  	$('.visible').stop().delay(250).fadeOut(250, function() {
+		  		$(this).stop().removeClass('visible');
+		  		$('.selected').stop().removeClass('selected');
 		  	});
 	  	}
 
@@ -291,9 +378,42 @@ $(document).ready(function(){
 	  }
 
 	  $('body').click(function(){
-	  	$('.visible').delay(250).stop().fadeOut(250, function() {
-	  		$(this).removeClass('visible');
-	  		$('.selected').removeClass('selected');
+	  	$('.visible').stop().delay(250).fadeOut(250, function() {
+	  		$(this).stop().removeClass('visible');
+	  		$('.selected').stop().removeClass('selected');
 	  	});
+	  });
+
+	  $('#stldw').toggle(function(){
+	  	$(this).animate({'opacity' : .85});
+	  	$('.stldw').addClass('highlighted');
+	  	$('#timeline').fadeIn();
+	  }, function(){
+	  	$(this).animate({'opacity' : .25});
+	  	$('.stldw').removeClass('highlighted');
+	  	$('#timeline').fadeOut();
+	  });
+
+	  $('#strangeloop').toggle(function(){
+	  	$(this).animate({'opacity' : .85});
+	  	$('.strangeloop').addClass('highlighted');
+	  }, function(){
+	  	$(this).animate({'opacity' : .25});
+	  	$('.strangeloop').removeClass('highlighted');
+	  });
+
+	  $('#citypulsedemo').click(function(){
+		  	$(this).animate({'opacity' : .85});
+	  		$.ajax({
+				url: LIVE_TWEETS_CITY_PULSE,
+				data: data,
+				type:'POST',
+				crossDomain: true,
+				dataType: "jsonp",
+				success: function(data) {
+					handleTweets(data, 'citypulsedemo');
+					handleTimeline(data);
+				}
+			});
 	  });
 });

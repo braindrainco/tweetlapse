@@ -1,5 +1,5 @@
 <?php	
-	include('../inc/config.php');
+	require 'config.php';
 
 	mysql_select_db('citypulse') or die ('Could not select database:' . mysql_error());
 

@@ -1,22 +1,90 @@
 body {
   background: #262626 url('../img/SaintLouis_024ef9-2.png') top left;
   font-size: 10px;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+@-webkit-keyframes glow {
+  from {
+    background-color: #FFF;
+    -webkit-box-shadow: 0 0 18px #FFF;
+  }
+  25% {
+    background-color: #FFF;
+    -webkit-box-shadow: 0 0 18px 36px rgba(255, 255, 255, 0.125);
+  }
+  to {
+    background-color: #77dbff;
+    -webkit-box-shadow: 0 0 9px 9px rgba(119, 219, 225, 0.125);
+  }
 }
 .tweetPoint {
   display: block;
+  -webkit-animation-name: glow;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-iteration-count: 1;
+  -webkit-box-shadow: 0 0 18px 9px rgba(119, 219, 225, 0.125);
+  background-color: rgba(119, 219, 225, 0.85);
+}
+.tweetPoint.highlighted {
+  background-color: rgba(250, 250, 210, 0.85);
+  -webkit-box-shadow: 0 0 18px 9px rgba(250, 250, 210, 0.125);
+}
+.stldw,
+#stldw {
+  background-color: rgba(19, 219, 225, 0.85);
+}
+.tweetPoint.stldw.highlighted {
+  background-color: #13dbe1;
+  -webkit-box-shadow: 0 0 18px 9px rgba(19, 219, 225, 0.25);
+}
+#strangeloop {
+  background-color: rgba(179, 255, 79, 0.85);
+}
+.tweetPoint.strangeloop.highlighted {
+  background-color: rgba(179, 255, 79, 0.85);
+  -webkit-box-shadow: 0 0 18px 9px rgba(179, 255, 79, 0.125);
+}
+.tweetPoint.cam {
+  background-color: rgba(255, 79, 202, 0.85);
+  -webkit-box-shadow: 0 0 18px 9px rgba(255, 79, 202, 0.125);
+}
+.citypulsedemo,
+#citypulsedemo {
+  background-color: rgba(225, 157, 0, 0.85);
+}
+.tweetPoint.citypulsedemo {
+  -webkit-box-shadow: 0 0 18px 9px rgba(255, 157, 0, 0.125);
+  z-index: 25;
+}
+#strangeloop,
+#stldw,
+#citypulsedemo {
+  font-family: 'pill-gothic-300mg';
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #262626;
+  font-size: 1.8em;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+  width: 150px;
+  opacity: .25;
 }
 .tweetPoint:hover {
-  box-shadow: 0 0 15px 1px #77dbe1;
+  box-shadow: 0 0 18px 9px #77dbe1;
 }
 .selected {
-  box-shadow: 0 0 15px 1px #fff;
+  box-shadow: 0 0 18px 9px #77dbe1;
 }
-.tweetBox {
+.tweetBox,
+.timelineTweet {
   background: rgba(119, 219, 225, 0.85);
-  color: white;
+  color: #262626;
   padding: 10px;
   font-size: 1.2em;
-  border-radius: 10px;
+  border-radius: 5px;
   z-index: 2;
 }
 .tweetProfPic,
@@ -27,26 +95,63 @@ body {
 }
 hr {
   clear: both;
+  background-color: #262626;
+  height: 1px;
+  border: 0;
 }
 .tweetProfPic {
   margin-right: 10px;
-  width: 32px;
-  height: 32px;
+  width: 48px;
+  height: 48px;
   margin-bottom: 5px;
 }
+.tweetUserInfo {
+  font-family: 'pill-gothic-300mg';
+  font-weight: 400;
+}
 .tweetName {
-  font-size: 1.2em;
+  font-size: 2.4em;
+  margin-bottom: .1em;
 }
 .tweetUserName {
-  font-size: 1em;
+  font-size: 1.4em;
   clear: both;
+  font-weight: 400;
+  margin-bottom: 10px;
+  font-style: oblique;
 }
 .tweetText {
+  font-family: "ff-tisa-web-pro";
+  font-weight: 300;
   clear: both;
-  font-size: 1.2em;
-  line-height: 1.4em;
+  font-size: 1.4em;
+  line-height: 1.6em;
   margin-bottom: 5px;
 }
 .tweetTime {
-  font-size: .8em;
+  margin-top: 10px;
+  font-size: 1em;
+  font-family: "pill-gothic-300mg";
+  font-weight: 600;
+  text-transform: uppercase;
+}
+#timeline {
+  width: 25%;
+  height: 100%;
+  overflow: auto;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  display: none;
+  z-index: 1;
+}
+.timelineTweet {
+  padding: 10px;
+  margin: 15px;
+  background: rgba(19, 219, 225, 0.75);
+  color: #262626;
+}
+.timelineTweet hr {
+  color: #262626;
+  background-color: #262626;
 }
