@@ -30,7 +30,7 @@ $first_id=0;
 function my_streaming_callback($data, $length, $metrics) {
   global $raw;
   if ($raw) :
-    file_put_contents("tweets.json", $data, FILE_APPEND);
+    file_put_contents("newtweets.json", $data, FILE_APPEND);
   else :
     $data = json_decode($data, true);
 
@@ -66,13 +66,13 @@ $tmhOAuth = new tmhOAuth(array(
 ));
 
 $method = 'https://stream.twitter.com/1.1/statuses/filter.json';
-$track     = 'test';//tmhUtilities::read_input('Track terms. For multiple terms separate with commas (leave blank for none): ');
+$track     = 'STLDW';//tmhUtilities::read_input('Track terms. For multiple terms separate with commas (leave blank for none): ');
 $follow    = '';//tmhUtilities::read_input('Follow accounts. For multiple accounts separate with commas (leave blank for none): ');
 $locations = '';//tmhUtilities::read_input('Bounding boxes (leave blank for none): ');
-$delimited = 0;//tmhUtilities::read_input('Delimited? (1,t,true): ');
-$limit     = 10;//tmhUtilities::read_input('Stop after how many tweets? (leave blank for unlimited): ');
+$delimited = 1;//tmhUtilities::read_input('Delimited? (1,t,true): ');
+$limit     = 1000;//tmhUtilities::read_input('Stop after how many tweets? (leave blank for unlimited): ');
 $debug     = 0;//tmhUtilities::read_input('Debug? (1,t,true): ');
-$raw       = 0;//tmhUtilities::read_input('Raw output? (1,t,true): ');
+$raw       = 1;//tmhUtilities::read_input('Raw output? (1,t,true): ');
 
 $true = array('1','t','true');
 
@@ -84,7 +84,8 @@ if (strlen($follow) > 0)
 if (strlen($locations) > 0)
   $params['locations'] = $locations;
 if (in_array($delimited, $true))
-  $params['delimited'] = 'length';
+  $params['delimited'] = ',';
+  // $params['delimited'] = 'length';
 if (strlen($limit) > 0)
   $limit = intval($limit);
 $debug = in_array($debug, $true);

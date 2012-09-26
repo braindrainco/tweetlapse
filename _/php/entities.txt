@@ -1,0 +1,3091 @@
+Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/KHDBwKxA
+            [expanded_url] => http://bit.ly/dK8DdN
+            [display_url] => bit.ly/dK8DdN
+            [indices] => Array
+                (
+                    [0] => 69
+                    [1] => 89
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/f1X12NGm
+            [expanded_url] => http://instagr.am/p/QBoctyEsZs/
+            [display_url] => instagr.am/p/QBoctyEsZs/
+            [indices] => Array
+                (
+                    [0] => 25
+                    [1] => 45
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/tZC9LiPh
+            [expanded_url] => http://atmlb.com/Pm2vpP
+            [display_url] => atmlb.com/Pm2vpP
+            [indices] => Array
+                (
+                    [0] => 116
+                    [1] => 136
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/8t19ebW2
+            [expanded_url] => http://4sq.com/P3q2u4
+            [display_url] => 4sq.com/P3q2u4
+            [indices] => Array
+                (
+                    [0] => 39
+                    [1] => 59
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/9BJd7mF4
+            [expanded_url] => http://instagr.am/p/QBn4g_h0u4/
+            [display_url] => instagr.am/p/QBn4g_h0u4/
+            [indices] => Array
+                (
+                    [0] => 42
+                    [1] => 62
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/5Cr9MKUo
+            [expanded_url] => http://atmlb.com/QSNBI4
+            [display_url] => atmlb.com/QSNBI4
+            [indices] => Array
+                (
+                    [0] => 115
+                    [1] => 135
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/Ldlp16zr
+            [expanded_url] => http://4sq.com/RgqSHO
+            [display_url] => 4sq.com/RgqSHO
+            [indices] => Array
+                (
+                    [0] => 48
+                    [1] => 68
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UwFjMk0Q
+            [expanded_url] => http://twitpic.com/aye84u
+            [display_url] => twitpic.com/aye84u
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+    [1] => Array
+        (
+            [url] => http://t.co/uBT1GxZo
+            [expanded_url] => http://twitpic.com/aye84x
+            [display_url] => twitpic.com/aye84x
+            [indices] => Array
+                (
+                    [0] => 35
+                    [1] => 55
+                )
+
+        )
+
+)
+is empty: URLS:Array,Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/Owe4XS78
+            [expanded_url] => http://atmlb.com/S50Bth
+            [display_url] => atmlb.com/S50Bth
+            [indices] => Array
+                (
+                    [0] => 110
+                    [1] => 130
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UwFjMk0Q
+            [expanded_url] => http://twitpic.com/aye84u
+            [display_url] => twitpic.com/aye84u
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+    [1] => Array
+        (
+            [url] => http://t.co/uBT1GxZo
+            [expanded_url] => http://twitpic.com/aye84x
+            [display_url] => twitpic.com/aye84x
+            [indices] => Array
+                (
+                    [0] => 35
+                    [1] => 55
+                )
+
+        )
+
+)
+is empty: URLS:Array,Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/leG0Jnvf
+            [expanded_url] => http://so-teenentertainment.blogspot.ca/2012/09/david-archuleta-begin-review.html
+            [display_url] => so-teenentertainment.blogspot.ca/2012/09/david-…
+            [indices] => Array
+                (
+                    [0] => 85
+                    [1] => 105
+                )
+
+        )
+
+)
+is empty: URLS:ArrayEntities:is empty: 1#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/leG0Jnvf
+            [expanded_url] => http://so-teenentertainment.blogspot.ca/2012/09/david-archuleta-begin-review.html
+            [display_url] => so-teenentertainment.blogspot.ca/2012/09/david-…
+            [indices] => Array
+                (
+                    [0] => 85
+                    [1] => 105
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UqmzLJGZ
+            [expanded_url] => http://bit.ly/Lab1om
+            [display_url] => bit.ly/Lab1om
+            [indices] => Array
+                (
+                    [0] => 97
+                    [1] => 117
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/sO5DULN5
+            [expanded_url] => http://bit.ly/SvQTVS
+            [display_url] => bit.ly/SvQTVS
+            [indices] => Array
+                (
+                    [0] => 67
+                    [1] => 87
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/vSaMDrPj
+            [expanded_url] => http://tl.gd/je53pb
+            [display_url] => tl.gd/je53pb
+            [indices] => Array
+                (
+                    [0] => 97
+                    [1] => 117
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/tZC9LiPh
+            [expanded_url] => http://atmlb.com/Pm2vpP
+            [display_url] => atmlb.com/Pm2vpP
+            [indices] => Array
+                (
+                    [0] => 116
+                    [1] => 136
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/45za3Xur
+            [expanded_url] => http://tl.gd/je535j
+            [display_url] => tl.gd/je535j
+            [indices] => Array
+                (
+                    [0] => 105
+                    [1] => 125
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/BZcO2k2D
+            [expanded_url] => http://instagr.am/p/QBh8JYE63r/
+            [display_url] => instagr.am/p/QBh8JYE63r/
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/5Cr9MKUo
+            [expanded_url] => http://atmlb.com/QSNBI4
+            [display_url] => atmlb.com/QSNBI4
+            [indices] => Array
+                (
+                    [0] => 115
+                    [1] => 135
+                )
+
+        )
+
+)
+is empty: URLS:ArrayEntities:is empty: 1#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/e4c2NWTO
+            [expanded_url] => http://www.youtube.com/watch?v=-mj8prUvTtk&feature=youtube_gdata_player
+            [display_url] => youtube.com/watch?v=-mj8pr…
+            [indices] => Array
+                (
+                    [0] => 0
+                    [1] => 20
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/BVb2DtV1
+            [expanded_url] => http://4sq.com/QThisq
+            [display_url] => 4sq.com/QThisq
+            [indices] => Array
+                (
+                    [0] => 109
+                    [1] => 129
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:Array#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/KHDBwKxA
+            [expanded_url] => http://bit.ly/dK8DdN
+            [display_url] => bit.ly/dK8DdN
+            [indices] => Array
+                (
+                    [0] => 69
+                    [1] => 89
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/KHDBwKxA
+            [expanded_url] => http://bit.ly/dK8DdN
+            [display_url] => bit.ly/dK8DdN
+            [indices] => Array
+                (
+                    [0] => 69
+                    [1] => 89
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/f1X12NGm
+            [expanded_url] => http://instagr.am/p/QBoctyEsZs/
+            [display_url] => instagr.am/p/QBoctyEsZs/
+            [indices] => Array
+                (
+                    [0] => 25
+                    [1] => 45
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/f1X12NGm
+            [expanded_url] => http://instagr.am/p/QBoctyEsZs/
+            [display_url] => instagr.am/p/QBoctyEsZs/
+            [indices] => Array
+                (
+                    [0] => 25
+                    [1] => 45
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/tZC9LiPh
+            [expanded_url] => http://atmlb.com/Pm2vpP
+            [display_url] => atmlb.com/Pm2vpP
+            [indices] => Array
+                (
+                    [0] => 116
+                    [1] => 136
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/tZC9LiPh
+            [expanded_url] => http://atmlb.com/Pm2vpP
+            [display_url] => atmlb.com/Pm2vpP
+            [indices] => Array
+                (
+                    [0] => 116
+                    [1] => 136
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/8t19ebW2
+            [expanded_url] => http://4sq.com/P3q2u4
+            [display_url] => 4sq.com/P3q2u4
+            [indices] => Array
+                (
+                    [0] => 39
+                    [1] => 59
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/8t19ebW2
+            [expanded_url] => http://4sq.com/P3q2u4
+            [display_url] => 4sq.com/P3q2u4
+            [indices] => Array
+                (
+                    [0] => 39
+                    [1] => 59
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/9BJd7mF4
+            [expanded_url] => http://instagr.am/p/QBn4g_h0u4/
+            [display_url] => instagr.am/p/QBn4g_h0u4/
+            [indices] => Array
+                (
+                    [0] => 42
+                    [1] => 62
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/9BJd7mF4
+            [expanded_url] => http://instagr.am/p/QBn4g_h0u4/
+            [display_url] => instagr.am/p/QBn4g_h0u4/
+            [indices] => Array
+                (
+                    [0] => 42
+                    [1] => 62
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/5Cr9MKUo
+            [expanded_url] => http://atmlb.com/QSNBI4
+            [display_url] => atmlb.com/QSNBI4
+            [indices] => Array
+                (
+                    [0] => 115
+                    [1] => 135
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/5Cr9MKUo
+            [expanded_url] => http://atmlb.com/QSNBI4
+            [display_url] => atmlb.com/QSNBI4
+            [indices] => Array
+                (
+                    [0] => 115
+                    [1] => 135
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/KHDBwKxA
+            [expanded_url] => http://bit.ly/dK8DdN
+            [display_url] => bit.ly/dK8DdN
+            [indices] => Array
+                (
+                    [0] => 69
+                    [1] => 89
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/KHDBwKxA
+            [expanded_url] => http://bit.ly/dK8DdN
+            [display_url] => bit.ly/dK8DdN
+            [indices] => Array
+                (
+                    [0] => 69
+                    [1] => 89
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/f1X12NGm
+            [expanded_url] => http://instagr.am/p/QBoctyEsZs/
+            [display_url] => instagr.am/p/QBoctyEsZs/
+            [indices] => Array
+                (
+                    [0] => 25
+                    [1] => 45
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/f1X12NGm
+            [expanded_url] => http://instagr.am/p/QBoctyEsZs/
+            [display_url] => instagr.am/p/QBoctyEsZs/
+            [indices] => Array
+                (
+                    [0] => 25
+                    [1] => 45
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/Ldlp16zr
+            [expanded_url] => http://4sq.com/RgqSHO
+            [display_url] => 4sq.com/RgqSHO
+            [indices] => Array
+                (
+                    [0] => 48
+                    [1] => 68
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/Ldlp16zr
+            [expanded_url] => http://4sq.com/RgqSHO
+            [display_url] => 4sq.com/RgqSHO
+            [indices] => Array
+                (
+                    [0] => 48
+                    [1] => 68
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/tZC9LiPh
+            [expanded_url] => http://atmlb.com/Pm2vpP
+            [display_url] => atmlb.com/Pm2vpP
+            [indices] => Array
+                (
+                    [0] => 116
+                    [1] => 136
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/tZC9LiPh
+            [expanded_url] => http://atmlb.com/Pm2vpP
+            [display_url] => atmlb.com/Pm2vpP
+            [indices] => Array
+                (
+                    [0] => 116
+                    [1] => 136
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/8t19ebW2
+            [expanded_url] => http://4sq.com/P3q2u4
+            [display_url] => 4sq.com/P3q2u4
+            [indices] => Array
+                (
+                    [0] => 39
+                    [1] => 59
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/8t19ebW2
+            [expanded_url] => http://4sq.com/P3q2u4
+            [display_url] => 4sq.com/P3q2u4
+            [indices] => Array
+                (
+                    [0] => 39
+                    [1] => 59
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/9BJd7mF4
+            [expanded_url] => http://instagr.am/p/QBn4g_h0u4/
+            [display_url] => instagr.am/p/QBn4g_h0u4/
+            [indices] => Array
+                (
+                    [0] => 42
+                    [1] => 62
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/9BJd7mF4
+            [expanded_url] => http://instagr.am/p/QBn4g_h0u4/
+            [display_url] => instagr.am/p/QBn4g_h0u4/
+            [indices] => Array
+                (
+                    [0] => 42
+                    [1] => 62
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/5Cr9MKUo
+            [expanded_url] => http://atmlb.com/QSNBI4
+            [display_url] => atmlb.com/QSNBI4
+            [indices] => Array
+                (
+                    [0] => 115
+                    [1] => 135
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/5Cr9MKUo
+            [expanded_url] => http://atmlb.com/QSNBI4
+            [display_url] => atmlb.com/QSNBI4
+            [indices] => Array
+                (
+                    [0] => 115
+                    [1] => 135
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UwFjMk0Q
+            [expanded_url] => http://twitpic.com/aye84u
+            [display_url] => twitpic.com/aye84u
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+    [1] => Array
+        (
+            [url] => http://t.co/uBT1GxZo
+            [expanded_url] => http://twitpic.com/aye84x
+            [display_url] => twitpic.com/aye84x
+            [indices] => Array
+                (
+                    [0] => 35
+                    [1] => 55
+                )
+
+        )
+
+)
+is empty: URLS:Array,ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UwFjMk0Q
+            [expanded_url] => http://twitpic.com/aye84u
+            [display_url] => twitpic.com/aye84u
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+    [1] => Array
+        (
+            [url] => http://t.co/uBT1GxZo
+            [expanded_url] => http://twitpic.com/aye84x
+            [display_url] => twitpic.com/aye84x
+            [indices] => Array
+                (
+                    [0] => 35
+                    [1] => 55
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/Owe4XS78
+            [expanded_url] => http://atmlb.com/S50Bth
+            [display_url] => atmlb.com/S50Bth
+            [indices] => Array
+                (
+                    [0] => 110
+                    [1] => 130
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/Owe4XS78
+            [expanded_url] => http://atmlb.com/S50Bth
+            [display_url] => atmlb.com/S50Bth
+            [indices] => Array
+                (
+                    [0] => 110
+                    [1] => 130
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UwFjMk0Q
+            [expanded_url] => http://twitpic.com/aye84u
+            [display_url] => twitpic.com/aye84u
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+    [1] => Array
+        (
+            [url] => http://t.co/uBT1GxZo
+            [expanded_url] => http://twitpic.com/aye84x
+            [display_url] => twitpic.com/aye84x
+            [indices] => Array
+                (
+                    [0] => 35
+                    [1] => 55
+                )
+
+        )
+
+)
+is empty: URLS:Array,ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UwFjMk0Q
+            [expanded_url] => http://twitpic.com/aye84u
+            [display_url] => twitpic.com/aye84u
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+    [1] => Array
+        (
+            [url] => http://t.co/uBT1GxZo
+            [expanded_url] => http://twitpic.com/aye84x
+            [display_url] => twitpic.com/aye84x
+            [indices] => Array
+                (
+                    [0] => 35
+                    [1] => 55
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/Ldlp16zr
+            [expanded_url] => http://4sq.com/RgqSHO
+            [display_url] => 4sq.com/RgqSHO
+            [indices] => Array
+                (
+                    [0] => 48
+                    [1] => 68
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/Ldlp16zr
+            [expanded_url] => http://4sq.com/RgqSHO
+            [display_url] => 4sq.com/RgqSHO
+            [indices] => Array
+                (
+                    [0] => 48
+                    [1] => 68
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UwFjMk0Q
+            [expanded_url] => http://twitpic.com/aye84u
+            [display_url] => twitpic.com/aye84u
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+    [1] => Array
+        (
+            [url] => http://t.co/uBT1GxZo
+            [expanded_url] => http://twitpic.com/aye84x
+            [display_url] => twitpic.com/aye84x
+            [indices] => Array
+                (
+                    [0] => 35
+                    [1] => 55
+                )
+
+        )
+
+)
+is empty: Entities:is empty: 1URLS:Array,ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UwFjMk0Q
+            [expanded_url] => http://twitpic.com/aye84u
+            [display_url] => twitpic.com/aye84u
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+    [1] => Array
+        (
+            [url] => http://t.co/uBT1GxZo
+            [expanded_url] => http://twitpic.com/aye84x
+            [display_url] => twitpic.com/aye84x
+            [indices] => Array
+                (
+                    [0] => 35
+                    [1] => 55
+                )
+
+        )
+
+)
+Entities:is empty: 1#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/Owe4XS78
+            [expanded_url] => http://atmlb.com/S50Bth
+            [display_url] => atmlb.com/S50Bth
+            [indices] => Array
+                (
+                    [0] => 110
+                    [1] => 130
+                )
+
+        )
+
+)
+is empty: #s: \n\nURLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/Owe4XS78
+            [expanded_url] => http://atmlb.com/S50Bth
+            [display_url] => atmlb.com/S50Bth
+            [indices] => Array
+                (
+                    [0] => 110
+                    [1] => 130
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UwFjMk0Q
+            [expanded_url] => http://twitpic.com/aye84u
+            [display_url] => twitpic.com/aye84u
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+    [1] => Array
+        (
+            [url] => http://t.co/uBT1GxZo
+            [expanded_url] => http://twitpic.com/aye84x
+            [display_url] => twitpic.com/aye84x
+            [indices] => Array
+                (
+                    [0] => 35
+                    [1] => 55
+                )
+
+        )
+
+)
+is empty: URLS:Array,ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UwFjMk0Q
+            [expanded_url] => http://twitpic.com/aye84u
+            [display_url] => twitpic.com/aye84u
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+    [1] => Array
+        (
+            [url] => http://t.co/uBT1GxZo
+            [expanded_url] => http://twitpic.com/aye84x
+            [display_url] => twitpic.com/aye84x
+            [indices] => Array
+                (
+                    [0] => 35
+                    [1] => 55
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/leG0Jnvf
+            [expanded_url] => http://so-teenentertainment.blogspot.ca/2012/09/david-archuleta-begin-review.html
+            [display_url] => so-teenentertainment.blogspot.ca/2012/09/david-…
+            [indices] => Array
+                (
+                    [0] => 85
+                    [1] => 105
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/leG0Jnvf
+            [expanded_url] => http://so-teenentertainment.blogspot.ca/2012/09/david-archuleta-begin-review.html
+            [display_url] => so-teenentertainment.blogspot.ca/2012/09/david-…
+            [indices] => Array
+                (
+                    [0] => 85
+                    [1] => 105
+                )
+
+        )
+
+)
+Entities:is empty: 1#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/leG0Jnvf
+            [expanded_url] => http://so-teenentertainment.blogspot.ca/2012/09/david-archuleta-begin-review.html
+            [display_url] => so-teenentertainment.blogspot.ca/2012/09/david-…
+            [indices] => Array
+                (
+                    [0] => 85
+                    [1] => 105
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/leG0Jnvf
+            [expanded_url] => http://so-teenentertainment.blogspot.ca/2012/09/david-archuleta-begin-review.html
+            [display_url] => so-teenentertainment.blogspot.ca/2012/09/david-…
+            [indices] => Array
+                (
+                    [0] => 85
+                    [1] => 105
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UqmzLJGZ
+            [expanded_url] => http://bit.ly/Lab1om
+            [display_url] => bit.ly/Lab1om
+            [indices] => Array
+                (
+                    [0] => 97
+                    [1] => 117
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UqmzLJGZ
+            [expanded_url] => http://bit.ly/Lab1om
+            [display_url] => bit.ly/Lab1om
+            [indices] => Array
+                (
+                    [0] => 97
+                    [1] => 117
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/sO5DULN5
+            [expanded_url] => http://bit.ly/SvQTVS
+            [display_url] => bit.ly/SvQTVS
+            [indices] => Array
+                (
+                    [0] => 67
+                    [1] => 87
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/sO5DULN5
+            [expanded_url] => http://bit.ly/SvQTVS
+            [display_url] => bit.ly/SvQTVS
+            [indices] => Array
+                (
+                    [0] => 67
+                    [1] => 87
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/vSaMDrPj
+            [expanded_url] => http://tl.gd/je53pb
+            [display_url] => tl.gd/je53pb
+            [indices] => Array
+                (
+                    [0] => 97
+                    [1] => 117
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/vSaMDrPj
+            [expanded_url] => http://tl.gd/je53pb
+            [display_url] => tl.gd/je53pb
+            [indices] => Array
+                (
+                    [0] => 97
+                    [1] => 117
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/tZC9LiPh
+            [expanded_url] => http://atmlb.com/Pm2vpP
+            [display_url] => atmlb.com/Pm2vpP
+            [indices] => Array
+                (
+                    [0] => 116
+                    [1] => 136
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/tZC9LiPh
+            [expanded_url] => http://atmlb.com/Pm2vpP
+            [display_url] => atmlb.com/Pm2vpP
+            [indices] => Array
+                (
+                    [0] => 116
+                    [1] => 136
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/45za3Xur
+            [expanded_url] => http://tl.gd/je535j
+            [display_url] => tl.gd/je535j
+            [indices] => Array
+                (
+                    [0] => 105
+                    [1] => 125
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/45za3Xur
+            [expanded_url] => http://tl.gd/je535j
+            [display_url] => tl.gd/je535j
+            [indices] => Array
+                (
+                    [0] => 105
+                    [1] => 125
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/BZcO2k2D
+            [expanded_url] => http://instagr.am/p/QBh8JYE63r/
+            [display_url] => instagr.am/p/QBh8JYE63r/
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/BZcO2k2D
+            [expanded_url] => http://instagr.am/p/QBh8JYE63r/
+            [display_url] => instagr.am/p/QBh8JYE63r/
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/leG0Jnvf
+            [expanded_url] => http://so-teenentertainment.blogspot.ca/2012/09/david-archuleta-begin-review.html
+            [display_url] => so-teenentertainment.blogspot.ca/2012/09/david-…
+            [indices] => Array
+                (
+                    [0] => 85
+                    [1] => 105
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/leG0Jnvf
+            [expanded_url] => http://so-teenentertainment.blogspot.ca/2012/09/david-archuleta-begin-review.html
+            [display_url] => so-teenentertainment.blogspot.ca/2012/09/david-…
+            [indices] => Array
+                (
+                    [0] => 85
+                    [1] => 105
+                )
+
+        )
+
+)
+Entities:is empty: 1Entities:is empty: 1#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/5Cr9MKUo
+            [expanded_url] => http://atmlb.com/QSNBI4
+            [display_url] => atmlb.com/QSNBI4
+            [indices] => Array
+                (
+                    [0] => 115
+                    [1] => 135
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/5Cr9MKUo
+            [expanded_url] => http://atmlb.com/QSNBI4
+            [display_url] => atmlb.com/QSNBI4
+            [indices] => Array
+                (
+                    [0] => 115
+                    [1] => 135
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+Entities:is empty: 1Entities:is empty: 1#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: Entities:is empty: 1URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/leG0Jnvf
+            [expanded_url] => http://so-teenentertainment.blogspot.ca/2012/09/david-archuleta-begin-review.html
+            [display_url] => so-teenentertainment.blogspot.ca/2012/09/david-…
+            [indices] => Array
+                (
+                    [0] => 85
+                    [1] => 105
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/leG0Jnvf
+            [expanded_url] => http://so-teenentertainment.blogspot.ca/2012/09/david-archuleta-begin-review.html
+            [display_url] => so-teenentertainment.blogspot.ca/2012/09/david-…
+            [indices] => Array
+                (
+                    [0] => 85
+                    [1] => 105
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UqmzLJGZ
+            [expanded_url] => http://bit.ly/Lab1om
+            [display_url] => bit.ly/Lab1om
+            [indices] => Array
+                (
+                    [0] => 97
+                    [1] => 117
+                )
+
+        )
+
+)
+is empty: Entities:is empty: 1URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/UqmzLJGZ
+            [expanded_url] => http://bit.ly/Lab1om
+            [display_url] => bit.ly/Lab1om
+            [indices] => Array
+                (
+                    [0] => 97
+                    [1] => 117
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/sO5DULN5
+            [expanded_url] => http://bit.ly/SvQTVS
+            [display_url] => bit.ly/SvQTVS
+            [indices] => Array
+                (
+                    [0] => 67
+                    [1] => 87
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/sO5DULN5
+            [expanded_url] => http://bit.ly/SvQTVS
+            [display_url] => bit.ly/SvQTVS
+            [indices] => Array
+                (
+                    [0] => 67
+                    [1] => 87
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\n#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/e4c2NWTO
+            [expanded_url] => http://www.youtube.com/watch?v=-mj8prUvTtk&feature=youtube_gdata_player
+            [display_url] => youtube.com/watch?v=-mj8pr…
+            [indices] => Array
+                (
+                    [0] => 0
+                    [1] => 20
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/e4c2NWTO
+            [expanded_url] => http://www.youtube.com/watch?v=-mj8prUvTtk&feature=youtube_gdata_player
+            [display_url] => youtube.com/watch?v=-mj8pr…
+            [indices] => Array
+                (
+                    [0] => 0
+                    [1] => 20
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/vSaMDrPj
+            [expanded_url] => http://tl.gd/je53pb
+            [display_url] => tl.gd/je53pb
+            [indices] => Array
+                (
+                    [0] => 97
+                    [1] => 117
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/vSaMDrPj
+            [expanded_url] => http://tl.gd/je53pb
+            [display_url] => tl.gd/je53pb
+            [indices] => Array
+                (
+                    [0] => 97
+                    [1] => 117
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/tZC9LiPh
+            [expanded_url] => http://atmlb.com/Pm2vpP
+            [display_url] => atmlb.com/Pm2vpP
+            [indices] => Array
+                (
+                    [0] => 116
+                    [1] => 136
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/tZC9LiPh
+            [expanded_url] => http://atmlb.com/Pm2vpP
+            [display_url] => atmlb.com/Pm2vpP
+            [indices] => Array
+                (
+                    [0] => 116
+                    [1] => 136
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/BVb2DtV1
+            [expanded_url] => http://4sq.com/QThisq
+            [display_url] => 4sq.com/QThisq
+            [indices] => Array
+                (
+                    [0] => 109
+                    [1] => 129
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/BVb2DtV1
+            [expanded_url] => http://4sq.com/QThisq
+            [display_url] => 4sq.com/QThisq
+            [indices] => Array
+                (
+                    [0] => 109
+                    [1] => 129
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/45za3Xur
+            [expanded_url] => http://tl.gd/je535j
+            [display_url] => tl.gd/je535j
+            [indices] => Array
+                (
+                    [0] => 105
+                    [1] => 125
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/45za3Xur
+            [expanded_url] => http://tl.gd/je535j
+            [display_url] => tl.gd/je535j
+            [indices] => Array
+                (
+                    [0] => 105
+                    [1] => 125
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/BZcO2k2D
+            [expanded_url] => http://instagr.am/p/QBh8JYE63r/
+            [display_url] => instagr.am/p/QBh8JYE63r/
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/BZcO2k2D
+            [expanded_url] => http://instagr.am/p/QBh8JYE63r/
+            [display_url] => instagr.am/p/QBh8JYE63r/
+            [indices] => Array
+                (
+                    [0] => 14
+                    [1] => 34
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/5Cr9MKUo
+            [expanded_url] => http://atmlb.com/QSNBI4
+            [display_url] => atmlb.com/QSNBI4
+            [indices] => Array
+                (
+                    [0] => 115
+                    [1] => 135
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/5Cr9MKUo
+            [expanded_url] => http://atmlb.com/QSNBI4
+            [display_url] => atmlb.com/QSNBI4
+            [indices] => Array
+                (
+                    [0] => 115
+                    [1] => 135
+                )
+
+        )
+
+)
+Entities:is empty: 1#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/e4c2NWTO
+            [expanded_url] => http://www.youtube.com/watch?v=-mj8prUvTtk&feature=youtube_gdata_player
+            [display_url] => youtube.com/watch?v=-mj8pr…
+            [indices] => Array
+                (
+                    [0] => 0
+                    [1] => 20
+                )
+
+        )
+
+)
+is empty: Entities:is empty: 1Entities:is empty: 1URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/e4c2NWTO
+            [expanded_url] => http://www.youtube.com/watch?v=-mj8prUvTtk&feature=youtube_gdata_player
+            [display_url] => youtube.com/watch?v=-mj8pr…
+            [indices] => Array
+                (
+                    [0] => 0
+                    [1] => 20
+                )
+
+        )
+
+)
+Entities:is empty: 1#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/BVb2DtV1
+            [expanded_url] => http://4sq.com/QThisq
+            [display_url] => 4sq.com/QThisq
+            [indices] => Array
+                (
+                    [0] => 109
+                    [1] => 129
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/BVb2DtV1
+            [expanded_url] => http://4sq.com/QThisq
+            [display_url] => 4sq.com/QThisq
+            [indices] => Array
+                (
+                    [0] => 109
+                    [1] => 129
+                )
+
+        )
+
+)
+Entities:is empty: 1#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:is empty: 1Entities:Array
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+is empty: URLS:ArrayArray
+(
+    [0] => Array
+        (
+            [url] => http://t.co/gyynzJjB
+            [expanded_url] => http://atmlb.com/Pm8A5H
+            [display_url] => atmlb.com/Pm8A5H
+            [indices] => Array
+                (
+                    [0] => 98
+                    [1] => 118
+                )
+
+        )
+
+)
+#s: \n\nEntities:is empty: 1Entities:is empty: 1Entities:is empty: 1
