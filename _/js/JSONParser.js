@@ -1,7 +1,7 @@
 var CACHED_TWEETS_URL = 'http://localhost:8888/cityPulse/tweetlapse/tweets.json';
 var NEW_CACHED_TWEETS_URL = 'http://localhost:8888/cityPulse/tweetlapse/newestTweets.json';
 var STREAMING_TWEETS_URL = 'https://stream.twitter.com/1.1/statuses/filter.json?track=STLDW';
-var LIVE_TWEETS_URL = 'http://search.twitter.com/search.json?q=STLDW&rpp=1000&include_entities=true&result_type=mixed';
+var LIVE_TWEETS_STLDW = 'http://search.twitter.com/search.json?q=STLDW&rpp=1000&include_entities=true&result_type=mixed';
 var LIVE_TWEETS_NEAR_CAM = 'http://search.twitter.com/search.json?geocode=38.640959,-90.234879,3mi&include_entities=true&result_type=recent';
 var TRACK_TWEETS = 'http://search.twitter.com/search.json?q=stldw&rpp=1000&include_entities=true&result_type=recent';
 var LIVE_TWEETS_STRANGE_LOOP = 'http://search.twitter.com/search.json?q=strangeloop&rpp=1000&include_entities=true&result_type=recent';
@@ -25,8 +25,30 @@ $(document).ready(function(){
 	tweetNum++;
 
 	//Attempt to load json
+	// $.ajax({
+	// 	url: LIVE_TWEETS_NEAR_CAM,
+	// 	data: data,
+	// 	type:'POST',
+	// 	crossDomain: true,
+	// 	dataType: "jsonp",
+	// 	success: function(data) {
+	// 		handleTweets(data);
+	// 	}
+	// });
+
+	// $.ajax({
+	// 	url: LIVE_TWEETS_STRANGE_LOOP,
+	// 	data: data,
+	// 	type:'POST',
+	// 	crossDomain: true,
+	// 	dataType: "jsonp",
+	// 	success: function(data) {
+	// 		handleTweets(data);
+	// 	}
+	// });
+
 	$.ajax({
-		url: LIVE_TWEETS_NEAR_CAM,
+		url: LIVE_TWEETS_STLDW,
 		data: data,
 		type:'POST',
 		crossDomain: true,
@@ -209,7 +231,7 @@ $(document).ready(function(){
 	  	var half_dot = Math.floor(dot_size/2);
 	  	y = y - half_dot;
 	  	x = x - half_dot;
-	  	var dot = '<div class="tweetPoint" id="tweetPoint_' + tweetNum + '" style="position:absolute; width:' + dot_size + 'px; height:' + dot_size + 'px; top:' + y + 'px; left:' + x + 'px; background:rgb(119, 219, 225); color:white; border-radius:5px;"></div>';
+	  	var dot = '<div class="tweetPoint" id="tweetPoint_' + tweetNum + '" style="position:absolute; width:' + dot_size + 'px; height:' + dot_size + 'px; top:' + y + 'px; left:' + x + 'px; background:rgb(19, 219, 225); color:white; border-radius:5px;"></div>';
 	 	
 	 	$(dot).appendTo('body');
 
@@ -217,7 +239,7 @@ $(document).ready(function(){
 		 	function(){
 		 		showTweet($(this).attr('id'));
 		 	}, function(){
-		 		hideTweet($(this).attr('id'));
+		 		// hideTweet($(this).attr('id'));
 		 	}
 	 	);
 	 }
@@ -228,7 +250,22 @@ $(document).ready(function(){
 	  */
 	 function showTweet(pointId) {
 	 	var pointNum = pointId.split('_')[1];
-	 	$('#tweetBox_' + pointNum).stop().show();
+	 	// hideTweet(pointId);
+	 	var visibleId = $('.visible').attr('id');
+	  	var pointLast = (visibleId) ? visibleId.split('_')[1] : '';
+
+	  	if (pointNum !== pointLast && pointLast) {
+		  	$('.visible').delay(250).stop().fadeOut(250, function() {
+		  		$(this).removeClass('visible');
+		  		$('.selected').removeClass('selected');
+
+		  		$('#tweetPoint_' + pointNum).addClass('selected');
+			 	$('#tweetBox_' + pointNum).addClass('visible').show();
+		  	});
+	  	} else {
+		 	$('#tweetPoint_' + pointNum).addClass('selected');
+		 	$('#tweetBox_' + pointNum).addClass('visible').show();
+		 }
 	 }
 
 	 /*
@@ -237,6 +274,26 @@ $(document).ready(function(){
 	  */
 	  function hideTweet(pointId) {
 	  	var pointNum = pointId.split('_')[1];
-	  	$('#tweetBox_' + pointNum).delay(250).stop().fadeOut();
+	  	var visibleId = $('.visible').attr('id');
+	  	var pointLast = (visibleId) ? visibleId.split('_')[1] : '';
+
+	  	console.log(pointNum + 'vs. ' + pointLast);
+
+	  	if (pointNum !== pointLast) {
+		  	$('.visible').delay(250).stop().fadeOut(250, function() {
+		  		$(this).removeClass('visible');
+		  		$('.selected').removeClass('selected');
+		  	});
+	  	}
+
+	  	
+	  	// $('#tweetBox_' + pointNum).delay(250).stop().fadeOut();
 	  }
+
+	  $('body').click(function(){
+	  	$('.visible').delay(250).stop().fadeOut(250, function() {
+	  		$(this).removeClass('visible');
+	  		$('.selected').removeClass('selected');
+	  	});
+	  });
 });

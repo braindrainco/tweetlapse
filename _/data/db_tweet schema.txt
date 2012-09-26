@@ -1,0 +1,24 @@
+tweet table schema:
+CREATE TABLE `tweets` (
+  `tweet_id` int(11) NOT NULL AUTO_INCREMENT,
+  `stldw` int(11) NOT NULL,
+  `strangeloop` int(11) NOT NULL,
+  `profile_image_url` text COLLATE utf8_unicode_ci NOT NULL,
+  `from_user_name` text COLLATE utf8_unicode_ci NOT NULL,
+  `from_user` text COLLATE utf8_unicode_ci NOT NULL,
+  `from_user_id` bigint(8) NOT NULL,
+  `created_at` text COLLATE utf8_unicode_ci NOT NULL,
+  `text` text COLLATE utf8_unicode_ci NOT NULL,
+  `urls` text COLLATE utf8_unicode_ci NOT NULL,
+  `media` text COLLATE utf8_unicode_ci NOT NULL,
+  `user_mentions` text COLLATE utf8_unicode_ci NOT NULL,
+  `hashtags` text COLLATE utf8_unicode_ci NOT NULL,
+  `id` bigint(8) NOT NULL,
+  `to_user` text COLLATE utf8_unicode_ci NOT NULL,
+  `to_user_id` bigint(8) NOT NULL,
+  `to_user_name` text COLLATE utf8_unicode_ci NOT NULL,
+  `coordinates` text COLLATE utf8_unicode_ci NOT NULL,
+  `location` text COLLATE utf8_unicode_ci NOT NULL,
+  PRIMARY KEY (`tweet_id`),
+  UNIQUE KEY `id` (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=4453 ;

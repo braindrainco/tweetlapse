@@ -5,6 +5,12 @@ body {
 .tweetPoint {
   display: block;
 }
+.tweetPoint:hover {
+  box-shadow: 0 0 15px 1px #77dbe1;
+}
+.selected {
+  box-shadow: 0 0 15px 1px #fff;
+}
 .tweetBox {
   background: rgba(119, 219, 225, 0.85);
   color: white;
